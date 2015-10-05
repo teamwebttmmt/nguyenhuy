@@ -1,0 +1,133 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#body{
+	width: auto;
+	height: auto;
+	
+}
+#wrapper{
+	width: 1280px;
+	margin: 0 auto;
+	position: relative;
+}
+#top{
+	width:80%;
+	height: 60px;
+	margin: auto;
+	background-color: green;
+}
+#menu ul li.menu1{
+	width: 20%;
+	height: 100px;
+	float: left;
+	margin-top: 3px;
+	margin-left: 128px;
+	background-color: red;
+	
+}
+#menu ul li.menu2{
+	width: 20%;
+	height: 100px;
+	float: left;
+	margin-top: 3px;
+	background-color: yellow;
+}
+#menu ul li.menu3{
+	width: 20%;
+	height: 100px;
+	float: left;
+	margin-top: 3px;
+	background-color: pink;
+}
+#menu ul li.menu4{
+	width: 20%;
+	height: 100px;
+	float: left;
+	margin-top: 3px;
+	background-color: gray;
+}
+#maytinh ul li.dell{
+	width: 40%;
+	height: 80px;
+	float: left;
+	margin-top: 15px;
+	margin-left: 128px;
+	background-color:#0017FF;
+}
+#maytinh ul li.apple{
+	width: 40%;
+	height: 80px;
+	float: left;
+	margin-top: 15px;
+	background-color:#0017FF;
+}
+#dienthoai ul li.nokia{
+	width: 20%;
+	height: 650px;
+	float: left;
+	margin-top: 10px;
+	margin-left: 128px;
+	background-color:#0C7500;
+}
+#dienthoai ul li.samsung{
+	width: 58%;
+	height: 1010px;
+	float: right;
+	margin-top: 10px;
+	margin-right: 128px;
+	background-color:red;
+}
+#tulanh{
+	width: 20%;
+	height: 350px;
+	float: left;
+	margin-left: 128px;
+	margin-top: 10px;
+	background-color:#FF99FF;
+}
+#xemay{
+	width: 80%;
+	height:200px;
+	float: left;
+	margin-left: 128px;
+	margin-top: 5px;
+	background-color:#0B0B0B;
+	
+}
+#maygiat ul li.loai1{
+	width: 25%;
+	height: 150px;
+	float: left;
+	margin: auto;
+	margin-left: 128px;
+	margin-top: 5px;
+	background-color:#CCCC99;
+	
+}
+#maygiat ul li.loai2{
+	width: 25%;
+	height: 150px;
+	float: left;
+	margin-left:30px;
+	margin-top: 5px;
+	background-color:#550000;
+}
+#maygiat ul li.loai3{
+	width: 25.3%;
+	height: 150px;
+	float: left;
+	margin: auto;
+	margin-left:30px;
+	margin-top: 5px;
+	background-color:#FF3333;
+}
+#dieuhoa{
+	width: 80%;
+	height: 50px;
+	float: left;
+	margin-top: 5px;
+	margin-left: 128px;
+	background-color:#FF99FF;
+}
